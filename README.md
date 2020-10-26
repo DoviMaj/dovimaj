@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🎓 &nbsp; Learning FullStack JS at The Odin Project.
+- 🎓 &nbsp; Learning Fullstack JS at The Odin Project.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
