@@ -23,8 +23,8 @@
 
 <p>
 <a href="https://github.com/dovimaj">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dovimaj&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dovimaj&theme=radical&layout=compact&exclude_lang=java+r" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dovimaj&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dovimaj&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
 
