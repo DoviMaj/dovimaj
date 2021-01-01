@@ -27,5 +27,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dovimaj&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dovimaj&" alt="dovimaj" /></p>
 
  *Disclaimer: My Programming Languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
