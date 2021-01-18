@@ -31,4 +31,7 @@
 </p>
 
  *Disclaimer: My Programming Languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
- ![](https://hit.yhype.me/github/profile?user_id=36450233)
+ <div>
+    ![](https://hit.yhype.me/github/profile?user_id=36450233)
+    ![Profile views](https://komarev.com/ghpvc/?username=dovimaj&color=yellow)
+ </div>
