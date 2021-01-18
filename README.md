@@ -26,6 +26,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dovimaj&show_icons=true" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dovimaj&layout=compact&exclude_lang=java+r" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dovimaj&" alt="dovimaj" />
+    ![profile views](https://komarev.com/ghpvc/?username=dovimaj)
   </a>
 </p>
 
