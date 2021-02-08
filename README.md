@@ -14,7 +14,7 @@
   ![Passport.JS](https://img.shields.io/badge/-Passport.js-333333?style=flat&logo=Passport.js)
   ![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
-  ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=Heroku)
+  ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=Heroku&logoColor=805caa)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=Jest)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
