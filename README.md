@@ -3,7 +3,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=3333)
   ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript) 
+  ![typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) 
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
