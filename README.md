@@ -7,6 +7,7 @@
   ![typescript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript) 
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![ReactRouter](https://img.shields.io/badge/-React_Router-333333?style=flat&logo=react-router)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
   ![webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)  
   ![Node](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)  
