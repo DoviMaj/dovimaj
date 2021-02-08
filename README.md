@@ -1,24 +1,4 @@
-
- <div>
-  <img src='https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5'></img>
-  <img src='https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6'></img>
-  <img src='https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=3333'></img>
-  <img src='https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass'></img>
-  <img src=''></img>
-  <img src=''></img>
-  <img src=''></img>
-  <img src=''></img>
-  <img src=''></img>
-  <img src=''></img>
-   <img src=''></img> 
-   <img src=''></img>
-   <img src=''></img>
-   <img src=''></img>
-   <img src=''></img>
-   
-   
-   
-   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=3333)
   ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass)
@@ -41,4 +21,3 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-</div>
