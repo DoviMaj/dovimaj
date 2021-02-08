@@ -16,14 +16,3 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-
-<p>
-  <a href="https://github.com/dovimaj">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dovimaj&show_icons=true" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dovimaj&layout=compact&exclude_lang=java+r" />    
-  </a>
-</p>
-
- *Disclaimer: My Programming Languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
-
