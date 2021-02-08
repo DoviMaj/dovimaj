@@ -12,6 +12,7 @@
   ![webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)  
   ![Node](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)  
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)  
+  ![Passport.JS](https://img.shields.io/badge/-Passport.js-333333?style=flat&logo=Passport.js)
   ![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=Heroku)
