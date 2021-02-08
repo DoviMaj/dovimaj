@@ -1,6 +1,6 @@
  
- <div max-width='60%'>
-<img src='https://www.mobinius.com/wp-content/uploads/2020/03/mernstack-development-company.jpg'></img>
+ <div width='100%'>
+   <img src='https://www.mobinius.com/wp-content/uploads/2020/03/mernstack-development-company.jpg'></img>
   
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -16,7 +16,5 @@
   ![Node](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js) ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express) ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=Jest)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-
 </div>
  
