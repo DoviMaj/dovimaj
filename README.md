@@ -10,6 +10,5 @@
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
   ![webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)  
-  ![Node](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js) ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express) ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=Jest)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![Node](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js) ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express) ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=Jest)![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
