@@ -1,5 +1,8 @@
 
-  ![ Alt text](name-of-gif-file. gif)
+<p align="center">
+   <img src="https://github.com/DoviMaj/dovimaj/blob/main/dMoVLfSvnTDo4KKaisVJiw3l7Kcl-wKoXDNo.gif" />
+</p>
+  
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=3333)
