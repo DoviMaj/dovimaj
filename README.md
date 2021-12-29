@@ -1,6 +1,6 @@
 <h1 align='center'>I 🤎 Code</h1>
 <p align="center">
-   <img src="https://github.com/DoviMaj/dovimaj/blob/main/dMoVLfSvnTDo4KKaisVJiw3l7Kcl-wKoXDNo.gif" />
+   <img src=https://github.com/DoviMaj/dovimaj/blob/main/tumblr_inline_p80m8wJkm61r4kz8i_540.gif" />
 </p>
   
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
