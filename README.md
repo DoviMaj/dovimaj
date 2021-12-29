@@ -1,4 +1,4 @@
-
+<h1 align='center'>I 🤎 Code</h1>
 <p align="center">
    <img src="https://github.com/DoviMaj/dovimaj/blob/main/dMoVLfSvnTDo4KKaisVJiw3l7Kcl-wKoXDNo.gif" />
 </p>
