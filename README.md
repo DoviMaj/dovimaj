@@ -20,5 +20,4 @@
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=Jest)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) 
-  ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
